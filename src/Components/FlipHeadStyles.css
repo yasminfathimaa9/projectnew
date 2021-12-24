@@ -1,0 +1,63 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.srch{
+    
+padding:20px;
+
+
+}
+.site-button-ghost-wrapper {
+   
+    padding: 70px;
+    /* background: rgb(190, 200, 200); */
+
+background-image:url("https://image.shutterstock.com/image-photo/cheerful-happy-woman-enjoying-shopping-600w-1417347668.jpg")
+  }
+  .btn{
+      margin:30px;
+      padding:10px;
+      color:rgb(131, 55, 55);
+      justify-content: space-around;
+      font-weight: light;
+      
+  }
+.imgs{
+   display: flex;
+    justify-content: space-evenly;
+    background-color: whitesmoke;
+    cursor: pointer;
+    font-weight: bold;
+    
+}
+.divimage{
+    display: flex;
+    background-color: whitesmoke;
+}
+    
+.divi{
+margin:20px;
+background-color: whitesmoke;
+font-size: 0.9rem;
+color:gray;
+font-weight: bold;
+}
+
+.divimage2{
+    margin:20px;
+    display: flex;
+    background-color: whitesmoke;
+    font-size: 0.9rem;
+    color:gray;
+font-weight: bold;
+
+} 
+.content{
+    color:gray;
+    font-size: 0.8rem;
+    text-align: start;
+    margin-left:15px;
+}
+
