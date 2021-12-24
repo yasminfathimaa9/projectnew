@@ -4,7 +4,7 @@ function Fliprops1(props) {
     return (
         <div className='divi'>
             <>
-                <img style={{width:"55%",height:"40%",backgroundColor:"pink"}} src={props.src} />
+                <img style={{width:"55%",height:"40%",backgroundColor:"pink"}} src={props.src} alt="img" />
                 <p>{props.name}</p>
                 <i> <p>{props.color}</p></i>
               <i>  <p >{props.id}</p></i>
